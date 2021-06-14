@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`IconImg Test Load IconImg 1`] = `
+<div>
+  <div
+    class="makeStyles-main-1"
+  >
+    <img
+      alt="icon_image"
+      class="makeStyles-image-4"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQEZrATmgHOi5ls0YCCQBTkocia_atSw0X-Q&usqp=CAU"
+    />
+    <p
+      class="makeStyles-title-2"
+    >
+      Dr Jonh Smith
+    </p>
+    <p
+      class="makeStyles-subTitle-3"
+    >
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Error quae rerum maxime!
+    </p>
+  </div>
+</div>
+`;

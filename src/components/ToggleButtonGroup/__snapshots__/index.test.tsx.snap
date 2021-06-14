@@ -1,0 +1,160 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ToggleGroup Test Load ToggleGroup 1`] = `
+<div>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3"
+  >
+    <div
+      class="MuiGrid-root makeStyles-items-1 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-true"
+    >
+      <button
+        aria-pressed="false"
+        class="MuiButtonBase-root MuiToggleButton-root makeStyles-toggle-3"
+        tabindex="0"
+        type="button"
+        value="check"
+      >
+        <span
+          class="MuiToggleButton-label"
+        >
+          <div
+            class="makeStyles-innerContainer-2"
+          >
+            <img
+              alt="toggle-choice"
+              src="img/blue-1.svg"
+            />
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat.
+            </p>
+          </div>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-items-1 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-true"
+    >
+      <button
+        aria-pressed="false"
+        class="MuiButtonBase-root MuiToggleButton-root makeStyles-toggle-3"
+        tabindex="0"
+        type="button"
+        value="check1"
+      >
+        <span
+          class="MuiToggleButton-label"
+        >
+          <div
+            class="makeStyles-innerContainer-2"
+          >
+            <img
+              alt="toggle-choice"
+              src="img/blue-2.svg"
+            />
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat.
+            </p>
+          </div>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-items-1 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-true"
+    >
+      <button
+        aria-pressed="false"
+        class="MuiButtonBase-root MuiToggleButton-root makeStyles-toggle-3"
+        tabindex="0"
+        type="button"
+        value="check2"
+      >
+        <span
+          class="MuiToggleButton-label"
+        >
+          <div
+            class="makeStyles-innerContainer-2"
+          >
+            <img
+              alt="toggle-choice"
+              src="img/blue-3.svg"
+            />
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat.
+            </p>
+          </div>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-items-1 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-true"
+    >
+      <button
+        aria-pressed="false"
+        class="MuiButtonBase-root MuiToggleButton-root makeStyles-toggle-3"
+        tabindex="0"
+        type="button"
+        value="check3"
+      >
+        <span
+          class="MuiToggleButton-label"
+        >
+          <div
+            class="makeStyles-innerContainer-2"
+          >
+            <img
+              alt="toggle-choice"
+              src="img/blue-4.svg"
+            />
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat.
+            </p>
+          </div>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-items-1 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-true"
+    >
+      <button
+        aria-pressed="false"
+        class="MuiButtonBase-root MuiToggleButton-root makeStyles-toggle-3"
+        tabindex="0"
+        type="button"
+        value="check4"
+      >
+        <span
+          class="MuiToggleButton-label"
+        >
+          <div
+            class="makeStyles-innerContainer-2"
+          >
+            <img
+              alt="toggle-choice"
+              src="img/blue-5.svg"
+            />
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat.
+            </p>
+          </div>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;

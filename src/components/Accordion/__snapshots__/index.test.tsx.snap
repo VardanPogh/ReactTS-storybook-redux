@@ -1,0 +1,228 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Accordion Test Load Accordion 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiAccordion-root makeStyles-accordion-1 MuiAccordion-rounded MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <div
+      aria-controls="panel0-content"
+      aria-disabled="false"
+      aria-expanded="false"
+      class="MuiButtonBase-root MuiAccordionSummary-root"
+      id="panel0-header"
+      role="button"
+      tabindex="0"
+    >
+      <div
+        class="MuiAccordionSummary-content"
+      >
+        <p
+          class="MuiTypography-root makeStyles-heading-3 MuiTypography-body1"
+        >
+          Test 1
+        </p>
+      </div>
+      <div
+        aria-disabled="false"
+        aria-hidden="true"
+        class="MuiButtonBase-root MuiIconButton-root MuiAccordionSummary-expandIcon MuiIconButton-edgeEnd"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </div>
+    </div>
+    <div
+      class="MuiCollapse-container MuiCollapse-hidden"
+      style="min-height: 0px;"
+    >
+      <div
+        class="MuiCollapse-wrapper"
+      >
+        <div
+          class="MuiCollapse-wrapperInner"
+        >
+          <div
+            aria-labelledby="panel0-header"
+            id="panel0-content"
+            role="region"
+          >
+            <div
+              class="MuiAccordionDetails-root makeStyles-accordionDetails-2"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1"
+              >
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur excepturi blanditiis repudiandae fuga sit libero? Recusandae, quasi incidunt labore animi magni ducimus id vitae distinctio tempore nesciunt repudiandae quia! Qui?
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiPaper-root MuiAccordion-root makeStyles-accordion-1 MuiAccordion-rounded MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <div
+      aria-controls="panel1-content"
+      aria-disabled="false"
+      aria-expanded="false"
+      class="MuiButtonBase-root MuiAccordionSummary-root"
+      id="panel1-header"
+      role="button"
+      tabindex="0"
+    >
+      <div
+        class="MuiAccordionSummary-content"
+      >
+        <p
+          class="MuiTypography-root makeStyles-heading-3 MuiTypography-body1"
+        >
+          Test 2
+        </p>
+      </div>
+      <div
+        aria-disabled="false"
+        aria-hidden="true"
+        class="MuiButtonBase-root MuiIconButton-root MuiAccordionSummary-expandIcon MuiIconButton-edgeEnd"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </div>
+    </div>
+    <div
+      class="MuiCollapse-container MuiCollapse-hidden"
+      style="min-height: 0px;"
+    >
+      <div
+        class="MuiCollapse-wrapper"
+      >
+        <div
+          class="MuiCollapse-wrapperInner"
+        >
+          <div
+            aria-labelledby="panel1-header"
+            id="panel1-content"
+            role="region"
+          >
+            <div
+              class="MuiAccordionDetails-root makeStyles-accordionDetails-2"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1"
+              >
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, voluptatem ea fugiat quia in ad accusantium asperiores, blanditiis molestias omnis reprehenderit a, incidunt dolorum quisquam dolor doloremque debitis perferendis maiores.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiPaper-root MuiAccordion-root makeStyles-accordion-1 MuiAccordion-rounded MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <div
+      aria-controls="panel2-content"
+      aria-disabled="false"
+      aria-expanded="false"
+      class="MuiButtonBase-root MuiAccordionSummary-root"
+      id="panel2-header"
+      role="button"
+      tabindex="0"
+    >
+      <div
+        class="MuiAccordionSummary-content"
+      >
+        <p
+          class="MuiTypography-root makeStyles-heading-3 MuiTypography-body1"
+        >
+          Test 3
+        </p>
+      </div>
+      <div
+        aria-disabled="false"
+        aria-hidden="true"
+        class="MuiButtonBase-root MuiIconButton-root MuiAccordionSummary-expandIcon MuiIconButton-edgeEnd"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </div>
+    </div>
+    <div
+      class="MuiCollapse-container MuiCollapse-hidden"
+      style="min-height: 0px;"
+    >
+      <div
+        class="MuiCollapse-wrapper"
+      >
+        <div
+          class="MuiCollapse-wrapperInner"
+        >
+          <div
+            aria-labelledby="panel2-header"
+            id="panel2-content"
+            role="region"
+          >
+            <div
+              class="MuiAccordionDetails-root makeStyles-accordionDetails-2"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1"
+              >
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas nemo dolorum error quo exercitationem aliquam aperiam itaque ex qui deserunt consequatur recusandae est deleniti aliquid, velit ipsam tempore voluptas necessitatibus?
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

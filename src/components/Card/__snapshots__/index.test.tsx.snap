@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MediaCard Test Loads MediaCard 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiCard-root makeStyles-root-1 MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <div
+      class="MuiCardContent-root"
+    >
+      <h2
+        class="MuiTypography-root makeStyles-title-4 MuiTypography-h5 MuiTypography-gutterBottom"
+      >
+        Get a Demo
+      </h2>
+      <p
+        class="MuiTypography-root makeStyles-subTitle-6 MuiTypography-body2 MuiTypography-colorTextSecondary"
+      >
+        Qualified engineers, scientists and PhDs with hands-on experience
+      </p>
+    </div>
+    <div
+      class="MuiCardActions-root MuiCardActions-spacing"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-contained-8"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          undefined
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;

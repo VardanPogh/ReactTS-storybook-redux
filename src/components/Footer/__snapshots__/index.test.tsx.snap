@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer Test Render Footer 1`] = `
+<div>
+  <footer
+    class="makeStyles-footer-1"
+  >
+    <div
+      class="MuiContainer-root MuiContainer-maxWidthLg"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-true"
+        >
+          <img
+            alt="logo"
+            class="makeStyles-logo-2"
+            src="img/logo.png"
+          />
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 MuiGrid-grid-sm-true"
+        >
+          <a
+            class="makeStyles-links-4"
+            href="/faq"
+          >
+            FAQs
+          </a>
+          <a
+            class="makeStyles-links-4"
+            href="/about_us"
+          >
+            About
+          </a>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 MuiGrid-grid-sm-true"
+        >
+          <a
+            class="makeStyles-links-4"
+            href="/support"
+          >
+            Support
+          </a>
+          <a
+            class="makeStyles-links-4"
+            href="/terms"
+          >
+            Terms of service
+          </a>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 MuiGrid-grid-sm-true"
+        >
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-contained-6"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              Get Support
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+    <p
+      class="makeStyles-footerText-5"
+    >
+      Copyright © BatNav Pty Ltd. All rights reserved.
+    </p>
+  </footer>
+</div>
+`;

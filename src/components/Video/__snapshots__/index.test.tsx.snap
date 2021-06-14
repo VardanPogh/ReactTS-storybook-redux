@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Video Test Load Video 1`] = `
+<div>
+  <div
+    style="width: 300px; height: 300px;"
+  />
+</div>
+`;

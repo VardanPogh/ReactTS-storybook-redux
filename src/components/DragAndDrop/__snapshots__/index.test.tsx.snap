@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DragAndDrop Test Load DragAndDrop 1`] = `
+<div>
+  <div
+    class="MuiGrid-root MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-2"
+    />
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-1 MuiGrid-grid-sm-1"
+    >
+      <ul
+        class="makeStyles-numbers-1"
+      >
+        <li>
+          1
+        </li>
+        <li>
+          2
+        </li>
+        <li>
+          3
+        </li>
+      </ul>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8 MuiGrid-grid-sm-8"
+    >
+      <div
+        data-rbd-droppable-context-id="0"
+        data-rbd-droppable-id="list"
+      >
+        <div
+          aria-describedby="rbd-hidden-text-0-hidden-text-0"
+          class="css-1jk3y74"
+          data-rbd-drag-handle-context-id="0"
+          data-rbd-drag-handle-draggable-id="box-0"
+          data-rbd-draggable-context-id="0"
+          data-rbd-draggable-id="box-0"
+          draggable="false"
+          role="button"
+          tabindex="0"
+        >
+          Maximise Performance
+        </div>
+        <div
+          aria-describedby="rbd-hidden-text-0-hidden-text-0"
+          class="css-1jk3y74"
+          data-rbd-drag-handle-context-id="0"
+          data-rbd-drag-handle-draggable-id="box-1"
+          data-rbd-draggable-context-id="0"
+          data-rbd-draggable-id="box-1"
+          draggable="false"
+          role="button"
+          tabindex="0"
+        >
+          Minimise Life Cycle Cost
+        </div>
+        <div
+          aria-describedby="rbd-hidden-text-0-hidden-text-0"
+          class="css-1jk3y74"
+          data-rbd-drag-handle-context-id="0"
+          data-rbd-drag-handle-draggable-id="box-2"
+          data-rbd-draggable-context-id="0"
+          data-rbd-draggable-id="box-2"
+          draggable="false"
+          role="button"
+          tabindex="0"
+        >
+          Minimise Quality Risk
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-2"
+    />
+  </div>
+</div>
+`;

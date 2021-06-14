@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Switch Test Load Switch 1`] = `
+<div>
+  <fieldset
+    class="MuiFormControl-root"
+  >
+    <label
+      class="MuiFormControlLabel-root MuiFormControlLabel-labelPlacementBottom"
+    >
+      <span
+        class="MuiSwitch-root"
+      >
+        <span
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-4 MuiSwitch-switchBase makeStyles-switchBase-1 MuiSwitch-colorSecondary PrivateSwitchBase-checked-5 Mui-checked makeStyles-checked-3"
+        >
+          <span
+            class="MuiIconButton-label"
+          >
+            <input
+              checked=""
+              class="PrivateSwitchBase-input-7 MuiSwitch-input"
+              type="checkbox"
+              value="value"
+            />
+            <span
+              class="MuiSwitch-thumb"
+            />
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </span>
+        <span
+          class="MuiSwitch-track makeStyles-track-2"
+        />
+      </span>
+      <span
+        class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+      >
+        Label
+      </span>
+    </label>
+  </fieldset>
+</div>
+`;

@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AvatarInfo Test Load AvatarInfo 1`] = `
+<div>
+  <div
+    class="MuiAvatar-root MuiAvatar-circle makeStyles-large-1"
+  >
+    <img
+      class="MuiAvatar-img"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQEZrATmgHOi5ls0YCCQBTkocia_atSw0X-Q&usqp=CAU"
+    />
+  </div>
+  <p
+    class="makeStyles-p_name-2"
+  >
+    Dr Jonh Smith
+  </p>
+  <p
+    class="makeStyles-p_des-3"
+  >
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci quod doloribus culpa?
+  </p>
+</div>
+`;

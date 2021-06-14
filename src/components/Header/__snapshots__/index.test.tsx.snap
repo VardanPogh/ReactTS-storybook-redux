@@ -1,0 +1,113 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Test Render Header with buttons navigation 1`] = `
+<div>
+  <div
+    class="MuiContainer-root makeStyles-container-1 MuiContainer-maxWidthLg"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true MuiGrid-grid-sm-4 MuiGrid-grid-md-6 MuiGrid-grid-lg-7"
+      >
+        <button
+          class="makeStyles-logo-2"
+          type="button"
+        >
+          <img
+            alt="logo"
+            src="img/logo.png"
+          />
+        </button>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true MuiGrid-grid-sm-8 MuiGrid-grid-md-6 MuiGrid-grid-lg-5"
+      >
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-asLink-7 makeStyles-linkButtons-5"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Get a Demo
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-asLink-7 makeStyles-buttonSupport-3 makeStyles-linkButtons-5"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Get support
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-outlined-8 makeStyles-buttonRegister-4"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Register
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-contained-6"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Login
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Header Test Render Header without buttons navigation 1`] = `
+<div>
+  <div
+    class="MuiContainer-root makeStyles-container-9 MuiContainer-maxWidthLg"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true MuiGrid-grid-sm-4 MuiGrid-grid-md-6 MuiGrid-grid-lg-7"
+      >
+        <button
+          class="makeStyles-logo-10"
+          type="button"
+        >
+          <img
+            alt="logo"
+            src="img/logo.png"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

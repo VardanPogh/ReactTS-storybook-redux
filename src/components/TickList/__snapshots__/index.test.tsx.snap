@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RadioButton Test Loads RadioButton 1`] = `
+<div>
+  <p
+    class="makeStyles-title-2"
+  >
+    Consultants
+  </p>
+  <div
+    class="makeStyles-container-1"
+  >
+    <img
+      alt="icon"
+      src="img/check.png"
+    />
+    <p>
+      Provide requirements over long meetings
+    </p>
+  </div>
+  <div
+    class="makeStyles-container-1"
+  >
+    <img
+      alt="icon"
+      src="img/check.png"
+    />
+    <p>
+      Delivers in weeks or months
+    </p>
+  </div>
+  <div
+    class="makeStyles-container-1"
+  >
+    <img
+      alt="icon"
+      src="img/check.png"
+    />
+    <p>
+      Revision in days or weeks
+    </p>
+  </div>
+</div>
+`;
